@@ -15,8 +15,8 @@ Tech Stack used is
 - CSS
 - Java
 ## Description of Idea
-- Idea : To Build an unqiue online pet shop which have pets buying options, their food and their toys buying options along with their tutorial links and description so that anyone can buy a pet for him/her without having any type hesitation of buying products online.
-- Problem : Most of people loves to have a pet but buying pets with less knowledge about them is a very difficult task. After somehow buying the pet, the problem arrises that what, when and how to feed them and which toys for them should buy so that they can also release some stress and live life freely.
+#### Idea : To Build an unqiue online pet shop which have pets buying options, their food and their toys buying options along with their tutorial links and description so that anyone can buy a pet for him/her without having any type hesitation of buying products online.
+#### Problem : Most of people loves to have a pet but buying pets with less knowledge about them is a very difficult task. After somehow buying the pet, the problem arrises that what, when and how to feed them and which toys for them should buy so that they can also release some stress and live life freely.
 - As a store can have a certain number of pets, customers don’t have many choices, due to paucity of time, they come under pressure, and they buy them even if they do not want to.​
 
 - Due to less knowledge about the pet, customers are not able to take any proper justice and the shopkeeper gives them the pet of the desired breed, for which they have to suffer later.​
@@ -25,7 +25,7 @@ Tech Stack used is
 
 - Due to lack of experience, the customer does not know when to feed the pet and what to feed. Whatever pet food the shopkeeper gives, they have to feed it whether it is beneficial for the pet or not.​
 
-They do not know how to take care of their pet in future, due to this lack of guidance they have to face problems going forward.​
+- They do not know how to take care of their pet in future, due to this lack of guidance they have to face problems going forward.​
 
 \
 \

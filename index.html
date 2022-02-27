@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>Pettish</title>
+</head>
+
+<body>
+
+    <!-- Main Area -->
+    <main id="main">
+        <!-- Section A -->
+
+        <nav class="navbar">
+            <span class="open-slide">
+                <a href="#" onclick="openSlideMenu()">
+                    <svg width="30" height="30">
+                        <path d="M0,5 30,5" stroke="#000"
+                        stroke-width="5"/>
+                        <path d="M0,14 30,14" stroke="#000"
+                        stroke-width="5"/>
+                        <path d="M0,23 30,23" stroke="#000"
+                        stroke-width="5"/>
+                    </svg>
+                </a>
+            </span>
+
+            <ul class="navbar-nav">
+                <li>
+                    <a href="login.html">Sign in/Sign up</a>
+                </li>
+                <li>
+                    <a href="#">About</a>
+                </li>
+                <li>
+                    <a href="#">Services</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+            </ul>
+        </nav>
+        <div id="side-menu" class="side-nav">
+            <a href="#" class="btn-close" onclick="closeSlideMenu()">&times;</a>
+            <a href="login.html">Sign in/Sign up</a>
+            <a href="">About</a>
+            <a href="">Services</a>
+            <a href="">Contact</a>
+        </div>
+
+        <script>
+            function openSlideMenu() {
+                document.getElementById('side-menu').style.width = '250px';
+                document.getElementById('main').style.marginLeft = '250px';
+            }
+
+            function closeSlideMenu() {
+                document.getElementById('side-menu').style.width = '0';
+                document.getElementById('main').style.marginLeft = '0';
+            }
+        </script>
+        <!-- Header Showcase -->
+        <header id="showcase" class="grid">
+            <div class="bg-image"></div>
+            <div class="content-wrap">
+                <h1>Welcome to Pettish</h1>
+                <p><b>There’s nothing like the unconditional love of a pet.<br> An animal’s eyes have the power to speak a great language
+                    Pets are humanizing. They remind us we have an obligation and responsibility to preserve and nature and care for all life</b> </p>
+                <a href="#secton-b" class="btn">Read More</a>
+            </div>
+        </header>
+
+        <div class="content-wrap">
+            <h2 class="content-title">Hey! Good to see you!</h2>
+            <div class="content-text">
+                <center>
+                    A pet is a domesticated animal that lives with people, but is not forced to work and is not eaten, in most instances. In most cases, a pet is kept to entertain people or for companionship. Some pets such as dogs and cats are placed in an animal shelter
+                    if there is no one willing to take care of them. If no one adopts it or the pet is too old/sick, the pet may be euthanized.
+                </center>
+            </div>
+        </div>
+
+        <!-- Section B -->
+        <section id="section-b" class="grid">
+            <ul>
+                <li>
+                    <div class="card">
+                        <!-- put images here 10.53 -->
+                        <img src="https://cdn.pixabay.com/photo/2018/10/01/09/21/pets-3715733_960_720.jpg" alt="error">
+                        <div class="card-content">
+                            <h3 class="card-title">Buy Pets</h3>
+                            <p>Pets are not our whole life, but they make our lives whole.<br> Just make your life full of joy and happiness by buying some pets for you and for your family.<br>We have some videos for you, so that you can grasps some knowledge about pet breeds and can buy a desired pet for you<br></vr></p>
+                            <a href="#">Click here to know more about pets and their breeds</a>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="card">
+                        <!-- put images here 10.53 -->
+                        <img src="https://ifc-solutions.com/wp-content/uploads/pet-food.jpg" alt="">
+                        <div class="card-content">
+                            <h3 class="card-title">NUTRITION AND FOODS</h3>
+                            <p>We have dry food, gravy food, and canned food to feed your felines according to their appetite.<br>We have listed some of the videos related to this topic </p>
+                            <a href="#">Click here to know more about pet foods </a>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="card">
+                        <!-- put images here 10.53 -->
+                        <img src="https://www.ovrs.com/blog/wp-content/uploads/2020/11/OVRS-clutter-shutterstock_1144432958.jpg" alt="">
+                        <div class="card-content">
+                            <h3 class="card-title">Pets Toys and Products</h3>
+                            <p>To keep them physically and mentally fit,we have some of the most stimulating toys which also eliminates undesirable behaviour in them.</p>
+                           <p>Litter boxes and trays from some of the premium brands keeping excellent hygiene in your pets</p>
+                           <a href="#">Click here to know more about playing products for pets</a>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </section>
+
+        <!-- Section C -->
+        <section id="section-c" class="grid">
+            <div class="content-wrap">
+                <h2 class="content-title">Awareness Section</h2>
+                <p> Bring out the best in your furry buddy! <br> Having a pet is a responsibility which you must have to fullfil. Some of them are given below</p>
+                    <p>Give Them Regular Exercise.</p>
+                    <p>Schedule Annual Check-Ups.</p>
+                    <p>Socialize Your Pet.</p>
+                    <p>Feed Them Properly.</p>
+                    <p>Keep Them Safe.</p>
+                    <p>Dental Health.</p>
+                    <p>Proper Training.</p>
+                    <p>Pick Up After Your Pet.</p>
+                    <p>Spay or Neuter.</p>
+                    <p>Give Them Plenty of Love.</p>
+            </div>
+        </section>
+
+        <!-- Section D -->
+        <section id="section-d" class="grid">
+            <div class="box">
+                <h2 class="content-title">Contact Us</h2>
+                        <h3>Instagram</h3>
+                        <ul>
+                            <li><a href="https://instagram.com/dushyant_sharma937?utm_medium=copy_link" target="_blank">Dushyant Sharma</a></li>
+                            <li><a href="https://www.instagram.com/anurag_singh_yadav_0005/" target="_blank">Anurag singh yadav</a></li>
+                            <li><a href="https://instagram.com/abhi.gupta.01?utm_medium=copy_link" target="_blank">Abhishek kumar</a></li>
+                            <li><a href="https://www.instagram.com/himanshu29gupta/" target="_blank">Himanshu gupta</a></li>
+                            <li><a href="https://www.instagram.com/_singla__aryan_/" target="_blank">Aryan Singla</a></li>
+                        </ul>
+                       <h5>Customer support:24X7 DAYS  1800 256 256</h5>
+                <p><a href="http://www.pettish.com">contact@pettish.test</a></p>
+            </div>
+            <div class="box">
+                <h2 class="content-title">About Our Company</h2>
+                <p>Our website play an integral role in bringing joy and cheerfulness to our house. The unconditional love they provide us is a healing force in itself.<br>Offering them top quality pet products goes a long way in keeping them healthy and happy.<br>Even so, there are a wide range of parameters that contribute to superior health and well being in your pets. Some of them are:</p>
+                <ul type="disc">
+                    <li>A Nourishing Diet</li>
+                    <li>Healthy Treats</li>
+                    <li>Regular Grooming</li>
+                    <li>Good Prescription Foods</li>
+                    <li>Mentally Stimulating Toys</li>
+                    <li>A Comfortable and Hygienic Living Environment.</li>
+                </ul>
+                <p>At <b>Pettish</b>, you will have a smooth and seamless experience of online shopping to find all the necessary products which take care of each and every requirement of your pets, be it dogs, cats, birds, rabbits, or even small pets like Guinea Pigs, Hamsters, Squirrels, etc.</p>
+            </div>
+        </section>
+    </main>
+    <!-- Footer -->
+    <footer id="main-footer" class="grid">
+        <div>Project Name : Pettish</div>
+        <div>Project By : Code Warriors</div>
+    </footer>
+</body>
+
+</html>

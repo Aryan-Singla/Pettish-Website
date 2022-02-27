@@ -47,27 +47,31 @@ The aim of this project is to get the customers to do shopping from a place with
 ## Images
 ![Screenshot (74)](https://user-images.githubusercontent.com/96014318/155883890-a829c373-ef4a-4893-8ffe-796d013baa00.png)
 \
-\
+
+
 
 ![Screenshot (75)](https://user-images.githubusercontent.com/96014318/155883896-51ba2593-7523-486e-aa8f-8cf6961877fb.png)
 \
-\
+
+
 
 ![Screenshot (76)](https://user-images.githubusercontent.com/96014318/155883901-04a1732d-6481-4d46-9c09-1cc40dd208b4.png)
-\
 \
 
 ![Screenshot (77)](https://user-images.githubusercontent.com/96014318/155883928-8021deaf-661e-4d41-9ac9-45ab32411ff1.png)
 \
-\
+
+
 
 ![Screenshot (78)](https://user-images.githubusercontent.com/96014318/155883935-52eca86f-2347-41e2-a2ea-6e0fee0415d8.png)
 \
-\
+
+
 
 ![Screenshot (79)](https://user-images.githubusercontent.com/96014318/155883941-b15c6b12-c5a8-4043-89e7-a2b39bf33678.png)
 \
-\
+
+
 
 ![Screenshot (80)](https://user-images.githubusercontent.com/96014318/155883949-82d6cea9-6a7b-4520-8050-e57946ec102f.png)
 

@@ -73,7 +73,7 @@ body {
 
 #main {
     tansition: margin-left 0.5s;
-    padding: 20px;
+    padding-bottom: 20px;
     overflow: hidden;
     width: 100%;
 }
